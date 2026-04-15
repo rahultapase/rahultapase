@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on a [collaborative task management platform](https://github.com/rahultapase/tasksync/)
 
-- 🌱 I’m currently learning **Next.js** & **Redux**
+- 🌱 I’m currently exploring **Generative AI** & **AI Agents**
 
 - 💬 Ask me about **React** & **Node.js**
 
@@ -44,7 +44,25 @@
   </a>
 </p>
 
+## 💻 Coding Profiles:
 
+<p align="left">
+  <a href="https://leetcode.com/u/rahultapase/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/rahultapase?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="https://www.codechef.com/users/rahultapase" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+  <a href="https://www.hackerrank.com/profile/rahultapase" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://www.hackerearth.com/@rahultapase/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth">
+  </a>
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -95,9 +113,31 @@
 
 ## 📈 GitHub Stats:
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultapase&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=rahultapase&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div> -->
+
+
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahultapase&theme=dark&layout=compact&hide_border=false" alt="Top Languages"/>
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=rahultapase&theme=dark&hide_border=false" alt="GitHub Streak" />
+
 </div>
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://streak-stats.demolab.com?user=rahultapase&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahultapase&theme=dark&layout=compact&hide_border=false" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
