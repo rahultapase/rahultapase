@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <span>
     <img 
@@ -8,7 +9,6 @@
     Hi, I'm <span style="color:#007ACC;"><strong>Rahul Tapase</strong></span>
   </span>
 </h1>
-
 
 <h3 align="center">
   🎓 Final Year B.Tech CSE @ IIIT Pune | 💻 Full Stack Web Developer 
