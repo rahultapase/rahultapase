@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img 
     src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
@@ -118,26 +117,8 @@
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=rahultapase&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div> -->
 
-
-
 <div align="center">
-
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahultapase&theme=dark&layout=compact&hide_border=false" alt="Top Languages"/>
-  
+
   <img height="180em" src="https://streak-stats.demolab.com?user=rahultapase&theme=dark&hide_border=false" alt="GitHub Streak" />
-
-</div>
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://streak-stats.demolab.com?user=rahultapase&theme=dark&hide_border=false" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahultapase&theme=dark&layout=compact&hide_border=false" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
 </div>
