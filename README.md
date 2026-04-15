@@ -1,11 +1,12 @@
 <h1 align="center">
-  <img 
-    src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
-    alt="Animated waving hand" 
-    width="50" 
-    height="50" 
-    align="absmiddle" 
-  /> Hi, I'm <span style="color:#007ACC;"><strong>Rahul Tapase</strong></span>
+  <span>
+    <img 
+      src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
+      width="50" 
+      style="vertical-align: middle; margin-right: 8px;" 
+    />
+    Hi, I'm <span style="color:#007ACC;"><strong>Rahul Tapase</strong></span>
+  </span>
 </h1>
 
 
